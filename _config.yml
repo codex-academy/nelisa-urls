@@ -1,0 +1,8 @@
+# Site settings
+title: codeX-portfolio
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jemoji
