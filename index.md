@@ -19,4 +19,3 @@ Links to codeX coder projects
 * [Spin spaza](http://spins.projectcodex.co/)
 * [Nurha's spaza](http://nurha.projectcodex.co/)
 * [Sakhi's spaza](http://tradingspaza.projectcodex.co/)
-* 
